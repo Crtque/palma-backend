@@ -1,0 +1,6 @@
+plugin:
+    name: 'endlesscycle.api::lang.plugin.name'
+    description: 'endlesscycle.api::lang.plugin.description'
+    author: EndlessCycle
+    icon: wn-icon-tree
+    replaces: {  }
